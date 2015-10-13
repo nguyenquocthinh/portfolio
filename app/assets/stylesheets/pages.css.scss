@@ -1,0 +1,98 @@
+.style-ul li {
+    list-style: none;
+    float: left;
+    padding: 20px;
+    color: #000;
+    font-size: 18px;
+}
+.style-ul li a {
+    color: #000;
+    font-weight: 500;
+}
+.h4, h4{
+margin-top: 23px;
+}
+.row, .col-md-8 col-sm-9 col-xs-8{
+margin-left:150px;
+}
+.repair-h2 a:hover{
+background-color:#cc6cff;
+color:#fff;
+text-decoration:none;
+}
+.repair-h2 a {
+    background-color: rgba(0,0,0,0.9);
+    font-size: 18px;
+    color: #fff;
+    margin: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+.contact li {
+    list-style: none;
+    float: right;
+    padding: 5px;
+    color: #000;
+    font-size: 18px;
+}
+.bg-main{
+background: url(https://portfolio-rails-2633.herokuapp.com/assets/home-db103bf75e724b89102c607792424914.jpg) center center;
+    background-size: cover;
+    min-height: 600px;
+    width: 100%;
+}
+.bg-main,.col-md-12 text-right{
+padding-top:100px;
+
+}
+.bg-main,.hight-light{
+background-color:#fff;
+color:#000;
+}
+.bg-main,.repair-h2{
+color:#fff;
+font-size: 48px;
+    line-height: 56px;
+padding-right: 97px;
+}
+.col-md-12 text-right, .repair-h2{
+padding-right: 97px;
+}
+.contact li a {
+    display: block;
+    height: 24px;
+    width: 24px;
+}
+
+.contact, .c{
+background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg);
+    background-position: center center;
+     
+}
+
+.contact, .b{
+background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg);
+    background-position: center center;
+     
+}
+
+.contact, .a{
+background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg);
+    background-position: center center;
+     
+}
+
+.col-md-12{
+position: relative;
+    min-height: 1px;
+    padding-right: 122px;
+    padding-left: 15px;
+    padding-top: 124px;
+    }
+    .p, p {
+    margin: 0 96px 10px;
+}
